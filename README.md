@@ -1,3 +1,3 @@
-# bot.php
-<?php
-echo "I am a bot";
+# LINE-BOT-PHP-Starter
+
+
