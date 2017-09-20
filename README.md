@@ -1,3 +1,2 @@
 # LINE-BOT-PHP-Starter
-# bot.php<?php
-echo "I am a bot";
+# https://radiant-refuge-48802.herokuapp.com/bot.php
